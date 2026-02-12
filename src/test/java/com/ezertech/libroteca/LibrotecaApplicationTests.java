@@ -1,4 +1,4 @@
-package com.ezertech.librarymanager;
+package com.ezertech.libroteca;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
