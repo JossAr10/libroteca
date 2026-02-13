@@ -5,7 +5,7 @@ import jakarta.validation.constraints.*;
 import java.time.LocalDate;
 
 @Entity
-@Table(name = "loans")
+@Table(name = "loans" , schema = "public")
 public class Loan {
 
     @Id
